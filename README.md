@@ -37,4 +37,21 @@ Files includes:
 			TP_edited                              : Timeprint matlab code
 			
 			
+Methodology:
+------------
 
+Mainly we have:
+
+(i) Structured the Twitter data set
+
+(ii) Performed the stylometric analysis of the posts
+
+(iii) Incorporated time profile features along with stylometric features
+
+(iv) Analyzed the results on performing combination of the matching techniques
+
+
+
+Results:
+---------
+The experiment shows the identification of the aliases of a Twitter user using supervisedlearning techniques. From the results, it is inferred that the combined technique is more accurate to detect the aliases. A significant increase in the accuracies is seen whenboth timeprints and stylometric features are used. As the number of users increases,there is a decrease in the accuracy of both classifiers (Naïve Bayes and SVM) in detection of the aliases. The performance of the individual stylometric technique for identification of users decreases more in comparison tothe combined technique.It can also be seen from the results that the support vector machine classifier outperforms the Naive Bayes classifier.
