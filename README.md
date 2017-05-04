@@ -7,7 +7,7 @@ Alias identification has not been exploredmuch on Twitter, especially experiment
 
 How the dataset was obtained:
 -----------------------------
-This dataset is collected from Sentiment140(Corpus).The original dataset contained 1600000 enteries of users and the subset of the Twitter data is parsed using Python. Our dataset of Twitter includes the tweets of various users from from May to June, 2009.This dataset is further preprocessed using Python and the number of posts for all the users are calculated for each user. Then these users are listed in the decreasing order of the number of the posts as per the experimental requirements.
+This dataset is collected from Sentiment140(Corpus).The original dataset contained 1600000 enteries of users and the subset of the Twitter data is parsed using Python. Our dataset of Twitter includes the tweets of various users from May to June, 2009.This dataset is further preprocessed using Python and the number of posts for all the users are calculated for each user. Then these users are listed in the decreasing order of the number of the posts as per the experimental requirements.
 
 Format of the data file (13 fields) :
 
